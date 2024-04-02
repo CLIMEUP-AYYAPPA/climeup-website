@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group Copy</title>
+    <g id="mobile-version" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2-solutions" transform="translate(-317.000000, -112.000000)" stroke="#00FEB7">
+            <g id="Group-20" transform="translate(27.000000, 112.000000)">
+                <g id="Group-Copy" transform="translate(290.000000, 0.000000)">
+                    <rect id="Rectangle" x="0.5" y="0.5" width="31" height="31" rx="15.5"></rect>
+                    <g id="Group-19" transform="translate(9.000000, 11.000000)" stroke-linecap="square">
+                        <line x1="0.5" y1="0.5" x2="13.5" y2="0.5" id="Line"></line>
+                        <line x1="0.5" y1="5.5" x2="13.5" y2="5.5" id="Line-Copy"></line>
+                        <line x1="0.5" y1="10.5" x2="13.5" y2="10.5" id="Line-Copy-2"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

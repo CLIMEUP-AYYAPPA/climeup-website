@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "Avenir Book";
+  src: url("/fonts/AvenirLTStd-Book.otf") format("opentype");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir";
+  src: url("/fonts/AvenirLTStd-Roman.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir";
+  src: url("/fonts/AvenirLTStd-Book.otf") format("opentype");
+  font-style: medium;
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir";
+  src: url("/fonts/AvenirLTStd-Roman.otf") format("opentype");
+  font-style: bold;
+  font-weight: 700;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir";
+  src: url("/fonts/AvenirLTStd-Heavy.otf") format("opentype");
+  font-style: bold;
+  font-weight: 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Avenir Medium";
+  src: url("/fonts/AvenirLTStd-Medium.otf") format("opentype");
+  font-style: medium;
+  font-weight: 500;
+  font-display: swap;
+}
+
+html {
+  font-family: 'Avenir';
+  font-weight: 500;
+}
+
+/* #video:before{
+  z-index: 1;
+  background: linear-gradient(to right,rgba(65, 0, 255, 0.4),rgba(255, 0, 232, 0.3))
+} */
+
+#carousel::-webkit-scrollbar, #ourApproach::-webkit-scrollbar, #challengesScroll::-webkit-scrollbar, #workWithUsScroll::-webkit-scrollbar, #whatWeDoScroll::-webkit-scrollbar, #ourInsightsScroll::-webkit-scrollbar, #fiveC::-webkit-scrollbar {
+  display: none;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
